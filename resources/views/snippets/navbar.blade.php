@@ -9,7 +9,10 @@
 
         <!-- Output sign in/sign out buttons appropriately -->
         <div class="navbar-header">
-            <a class="navbar-brand" href="{{ route('index') }}">{{env('APP_NAME')}}</a>
+            <a class="navbar-brand" href="{{ route('index') }}">
+                <img class="pull-left" alt="Logo" src="img/favicon-32x32.png">
+                <span class="pull-left">{{env('APP_NAME')}}</span>
+            </a>
         </div>
 
         <ul id="navbar" class="nav navbar-collapse collapse navbar-nav" id="nbc">

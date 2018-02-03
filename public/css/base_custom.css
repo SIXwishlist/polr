@@ -1,0 +1,8 @@
+.navbar-brand > span {
+    padding-left: 0.5em;
+}
+
+.navbar-brand > img {
+    margin-top: -6px;
+    margin-bottom: -6px;
+}
