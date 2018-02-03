@@ -44,7 +44,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#5bbad5">
-    <link rel="shortcut icon" href="/img/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
     <meta name="apple-mobile-web-app-title" content="InkurzDE">
     <meta name="application-name" content="InkurzDE">
     <meta name="msapplication-TileColor" content="#da532c">
