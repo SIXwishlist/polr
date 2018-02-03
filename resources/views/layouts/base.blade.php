@@ -50,8 +50,6 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
     <meta name="msapplication-config" content="/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
 
-
-
     @yield('css')
 </head>
 <body>

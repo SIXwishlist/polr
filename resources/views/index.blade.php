@@ -2,6 +2,7 @@
 
 @section('css')
 <link rel='stylesheet' href='css/index.css' />
+<link rel='stylesheet' href='css/index_custom.css' />
 @endsection
 
 @section('content')
